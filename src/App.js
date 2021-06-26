@@ -10,6 +10,10 @@ class App extends Component{
       {id: 2, name: "ahmed", age: 21, count: 2},
       {id: 3, name: "ahmed", age: 21, count: 3},
       {id: 4, name: "ahmed", age: 21, count: 4},
+      {id: 1, name: "ahmed", age: 21, count: 1},
+      {id: 2, name: "ahmed", age: 21, count: 2},
+      {id: 3, name: "ahmed", age: 21, count: 3},
+      {id: 4, name: "ahmed", age: 21, count: 4},
 
     ]
   }
